@@ -170,8 +170,8 @@
 				<!-- logo -->
 				<div class="col-md-3 logo_agile">
 					<h1 class="text-center">
-						<a href="index.php" class="font-weight-bold font-italic">
-							<img src="images/logo2.png" alt=" " class="img-fluid">Electro Store
+						<a href="index.php" class="font-weight-bold font-italic" style="margin: 20px;">
+							<img src="images/logo2.png" alt=" " class="img-fluid">4TL
 						</a>
 					</h1>
 				</div>

@@ -6,9 +6,9 @@
 				<!-- footer first section -->
 				<h2 class="footer-top-head-w3l font-weight-bold mb-2">Giới thiệu về chúng tôi</h2>
 				<p class="footer-main mb-4">
-					If you're considering a new laptop, looking for a powerful new car stereo or shopping for a new HDTV, we make it easy to
-					find exactly what you need at a price you can afford. We offer Every Day Low Prices on TVs, laptops, cell phones, tablets
-					and iPads, video games, desktop computers, cameras and camcorders, audio, video and more.</p>
+				Nếu bạn đang xem xét một máy tính xách tay mới, đang tìm kiếm một dàn âm thanh nổi mới mạnh mẽ cho ô tô hoặc mua một HDTV mới, chúng tôi sẽ giúp bạn dễ dàng
+				tìm thấy chính xác những gì bạn cần ở một mức giá bạn có thể mua được. Chúng tôi cung cấp Giá thấp mỗi ngày trên TV, máy tính xách tay, điện thoại di động, máy tính bảng
+				và iPad, trò chơi điện tử, máy tính để bàn, máy ảnh và máy quay phim, âm thanh, video, v.v..</p>
 				<!-- //footer first section -->
 				<!-- footer second section -->
 				<div class="row w3l-grids-footer border-top border-bottom py-sm-4 py-3">
@@ -57,8 +57,8 @@
 	<!-- copyright -->
 	<div class="copy-right py-3">
 		<div class="container">
-			<p class="text-center text-white">© 2018 Electro Store. All rights reserved | Design by
-				<a href="http://w3layouts.com"> W3layouts.</a>
+			<p class="text-center text-white">© 2023 Nhóm 4TL | Thiết kế bởi
+				<a href="https://www.facebook.com/profile.php?id=100007612626475"> 4TL.</a>
 			</p>
 		</div>
 	</div>
